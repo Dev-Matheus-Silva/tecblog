@@ -1,0 +1,2 @@
+# tecblog
+ primeiro repositorio versionado
